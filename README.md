@@ -1,2 +1,2 @@
 # JSON
-JSON miniproject file 
+JSON miniproject file from Springboard fast track program
